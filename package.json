@@ -1,0 +1,15 @@
+  {
+  "name": "main",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yusuf Goktas <yusufgoktask@gmail.com>)",
+  "license": "ISC",
+  "dependencies": {
+    "cronr": "^2.2.1",
+    "web3": "1.3.6"
+  }
+}
